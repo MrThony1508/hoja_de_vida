@@ -20,7 +20,9 @@ header {
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #fff;
+    margin-top: -20px; /* Ajusta este valor */
 }
+
 
 section {
     width: 80%;
